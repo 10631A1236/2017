@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 i=1
@@ -9,3 +10,4 @@ do
 done
 
 echo "End of the while"
+echo "print the given line"
